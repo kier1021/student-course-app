@@ -94,7 +94,8 @@ application/json:
 ```
 localhost:8080/courses/student
 ```
-````
+```
+application/json:
 {
     "student_id": 5,
     "course_ids": ["MATH-100"]
